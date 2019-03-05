@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Title</title>
-    <link rel="stylesheet" href="bootsrap/css/bootstrap.css">
+    <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="anime.css">
     <link class="u" rel="icon" href="animeimg/heroicon.png">
 </head>
@@ -70,8 +70,8 @@
 
 </div>
 
- <script src="bootsrap/js/jquery.js"></script>
- <script src="bootsrap/js/bootstrap.js"></script>
+ <script src="js/jquery.js"></script>
+ <script src="js/bootstrap.js"></script>
 
 </body>
 </html>
